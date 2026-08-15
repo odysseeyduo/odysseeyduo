@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=rapidrot&color=742518&label=rot&style=classic&base=10000000) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1535542099351576586/Tak_berjudul2_1.png?ex=6a782485&is=6a76d305&hm=087e538d7f98bce5acca3c129b1b8f878e26a1cd46190e5d069967fa0fa4e6e6&" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1535542099351576586/Tak_berjudul2_1.png?ex=6a782485&is=6a76d305&hm=087e538d7f98bce5acca3c129b1b8f878e26a1cd46190e5d069967fa0fa4e6e6&" />
-  <img alt="this so ugly bruh pls dont look at the errors" src="https://cdn.discordapp.com/attachments/1490255018853535887/1535542099351576586/Tak_berjudul2_1.png?ex=6a782485&is=6a76d305&hm=087e538d7f98bce5acca3c129b1b8f878e26a1cd46190e5d069967fa0fa4e6e6&" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/csaa40.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/csaa40.png" />
+  <img alt="this so ugly bruh pls dont look at the errors" src="https://files.catbox.moe/csaa40.png" />
 </picture>
 
 ㅤㅤ
