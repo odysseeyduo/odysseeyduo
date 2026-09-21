@@ -1,7 +1,6 @@
 <div align="center"
 
-dude hi im super awkward pls forgive me if it seems like im ignoring or not acknowledging you
-
+wait dude im decorating this too, big fat wip
 
 <div align="center"
 
